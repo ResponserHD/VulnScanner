@@ -20,4 +20,4 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/VulnScanner.git
+   git clone https://github.com/ResponserHD/VulnScanner.git
